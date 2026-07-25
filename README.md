@@ -1,37 +1,45 @@
-<div align="center">
+<h1 align="center">
+  Hi 👋, I'm Cabaas
+</h1>
 
-# 👋 Hi, I'm kia
+<h3 align="center">
+💻 Passionate Front-End Developer from Ethiopia 🇪🇹
+</h3>
 
-### 💙 Frontend Developer from Ethiopia 🇪🇹
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=800&lines=Frontend+Developer;HTML+%7C+CSS+%7C+JavaScript;Learning+React.js;Building+Modern+Websites;Always+Learning+🚀"/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:00BFFF,100:0066FF&text=Welcome%20To%20My%20GitHub&fontSize=40&fontColor=ffffff&animation=fadeIn"/>
-
-</div>
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=30&pause=1000&color=00CFFF&center=true&vCenter=true&width=700&lines=Front-End+Developer;HTML+CSS+JavaScript;Learning+React.js;Always+Learning+New+Things" />
+</p>
 
 ---
 
-<img align="right" width="420" src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif">
+## 🚀 About Me
 
-## 💙 About Me
-
-- 💻 Frontend Developer
 - 🎓 Student
-- 🌍 From Ethiopia 🇪🇹
-- 🌱 Learning **React.js**
-- 🚀 Love Building Beautiful Websites
-- ⚡ Always Improving My Skills
-
-<br><br><br><br><br><br><br>
+- 🌍 From Ethiopia
+- 💻 Front-End Developer
+- 🌱 Currently Learning **React.js**
+- 📚 Learning every day
+- ⚡ Love creating beautiful websites
 
 ---
 
-# 🚀 Tech Stack
+## 🌐 Connect With Me
+
+<p align="left">
+
+<a href="https://github.com/abasmuktarosman">
+<img src="https://skillicons.dev/icons?i=github" width="50"/>
+</a>
+
+</p>
+
+---
+
+# 💻 Languages & Tools
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,javascript,react,git,github,vscode,npm,figma&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=html,css,javascript,react,vscode,git,github,figma" />
 
 </p>
 
@@ -41,9 +49,9 @@
 
 <p align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=abasmuktarosman&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=abasmuktarosman&show_icons=true&theme=tokyonight"/>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abasmuktarosman&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abasmuktarosman&layout=compact&theme=tokyonight"/>
 
 </p>
 
@@ -53,7 +61,7 @@
 
 <p align="center">
 
-<img src="https://streak-stats.demolab.com?user=abasmuktarosman&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-streak-stats.herokuapp.com?user=abasmuktarosman&theme=tokyonight"/>
 
 </p>
 
@@ -63,23 +71,45 @@
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=abasmuktarosman&theme=algolia&no-frame=true&column=7"/>
+<img src="https://github-profile-trophy.vercel.app/?username=abasmuktarosman&theme=algolia&row=1&column=7"/>
 
 </p>
 
 ---
 
-# 👨‍💻 Coding Time
+# 🐍 Contribution Snake
 
 <p align="center">
 
-<img width="850" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
 
 </p>
 
 ---
 
-# 💬 Developer Quote
+# 🎯 Visitor Count
+
+<p align="center">
+
+<img src="https://komarev.com/ghpvc/?username=abasmuktarosman&label=Visitors&color=blueviolet&style=for-the-badge"/>
+
+</p>
+
+---
+
+# 🎬 Coding Animation
+
+<p align="center">
+
+<img width="450" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif"/>
+
+<img width="450" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
+
+</p>
+
+---
+
+# ☕ Quote
 
 <p align="center">
 
@@ -89,20 +119,8 @@
 
 ---
 
-# 🌐 Connect
-
 <p align="center">
 
-<a href="https://github.com/abasmuktarosman">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
-</a>
-
-</p>
-
----
-
-<p align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:00BFFF,100:0066FF&section=footer"/>
+⭐ If you like my work, don't forget to star my repositories.
 
 </p>
