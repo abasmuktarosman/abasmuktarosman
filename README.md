@@ -23,10 +23,15 @@
 </p>
 
 HTML ████████████████████ 95%
+
 CSS ███████████████████░ 90%
+
 JavaScript █████████████░░░░░░░ 65%
+
 React █████████░░░░░░░░░░░ 45%
+
 Node.js ████████░░░░░░░░░░░░ 40%
+
 Git/GitHub █████████████░░░░░░░ 70%
 ---
 
@@ -60,7 +65,13 @@ Git/GitHub █████████████░░░░░░░ 70%
 <img src="https://streak-stats.demolab.com?user=abasmuktarosman&theme=tokyonight&hide_border=true"/>
 </p>
 
+<h2 align="center">
+🐍 My Contribution Snake Game
+</h2>
 
+<p align="center">
+<img src="https://raw.githubusercontent.com/abasmuktarosman/abasmuktarosman/output/github-contribution-grid-snake.svg"/>
+</p>
 ---
 
 
