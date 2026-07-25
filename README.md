@@ -43,15 +43,43 @@
 
 </p>
 
----
-
-# 📊 GitHub Stats
+--# 📊 GitHub Statistics
 
 <p align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=abasmuktarosman&show_icons=true&theme=tokyonight"/>
+<img 
+width="49%" 
+src="https://github-readme-stats.vercel.app/api?username=abasmuktarosman&show_icons=true&theme=tokyonight&hide_border=true&border_radius=15&bg_color=0D1117&title_color=00CFFF&icon_color=00CFFF"
+/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abasmuktarosman&layout=compact&theme=tokyonight"/>
+<img 
+width="49%" 
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=abasmuktarosman&layout=compact&theme=tokyonight&hide_border=true&border_radius=15&bg_color=0D1117&title_color=00CFFF&icon_color=00CFFF"
+/>
+
+</p>
+
+---
+
+# 🔥 GitHub Streak
+
+<p align="center">
+
+<img 
+src="https://streak-stats.demolab.com?user=abasmuktarosman&theme=tokyonight&hide_border=true&border_radius=15&background=0D1117&ring=00CFFF&fire=00CFFF&currStreakLabel=00CFFF"
+/>
+
+</p>
+
+---
+
+# 🏆 GitHub Achievements
+
+<p align="center">
+
+<img 
+src="https://github-profile-trophy.vercel.app/?username=abasmuktarosman&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&column=7"
+/>
 
 </p>
 
@@ -65,15 +93,6 @@
 
 </p>
 
----
-
-# 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=abasmuktarosman&theme=algolia&row=1&column=7"/>
-
-</p>
 
 ---
 
