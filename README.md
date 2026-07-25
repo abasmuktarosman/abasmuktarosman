@@ -5,7 +5,7 @@
 💻 Class: Front-End Developer
 ⭐ Level: 18
 🔥 XP: 8500 / 10000<h1 align="center">
-  🌸 Hey 👋 I'm Kia 🌸
+  hello iam kia 
 </h1>
 
 <h3 align="center">
@@ -38,6 +38,37 @@ Git/GitHub █████████████░░░░░░░ 70%
 ---
 
 # ⚔️ My Developer Skills
+<h1 align="center">
+  Hi 👋, My name is Kia 🦖
+</h1>
+
+<h3 align="center">
+  🚀 A passionate Frontend Developer from Ethiopia 🇪🇹
+</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=30&pause=1000&color=00CFFF&center=true&vCenter=true&width=600&lines=Hi+I'm+Kia+👋;Frontend+Developer+💻;Building+Cute+Websites+✨;Welcome+To+My+Profile+🦖" />
+</p>
+
+<div align="center">
+
+🦖━━━━━━━━━━━━━━━━━━━━━━━━━━━━🦖
+
+</div>
+
+<p align="center">
+  <img 
+    src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif"
+    width="400"
+    alt="Dinosaur animation"
+  />
+</p>
+
+<div align="center">
+
+🦖💨 Dino is walking through my GitHub profile 💨🦖
+
+</div>
 
 ## 🛡️ Front-End Weapons
 
