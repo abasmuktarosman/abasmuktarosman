@@ -65,23 +65,6 @@ Git/GitHub █████████████░░░░░░░ 70%
 
 
 
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abasmuktarosman&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
-
-
----
-
-# 🐍 GitHub Snake Game
-
-<p align="center">
-<img src="https://raw.githubusercontent.com/abasmuktarosman/abasmuktarosman/output/github-contribution-grid-snake.svg"/>
-</p>
-
-
----
-
 # 🎮 Daily Coding Quest
 "what you do to day,
 is what you achieve reality"
