@@ -63,20 +63,7 @@ Git/GitHub █████████████░░░░░░░ 70%
 
 ---
 
-# 🏆 GitHub Trophy Room
 
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=abasmuktarosman&theme=discord&no-frame=true&margin-w=15"/>
-</p>
-
-
----
-
-# 📊 Player Statistics
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=abasmuktarosman&show_icons=true&theme=tokyonight&hide_border=true"/>
-</p>
 
 
 <p align="center">
@@ -96,7 +83,5 @@ Git/GitHub █████████████░░░░░░░ 70%
 ---
 
 # 🎮 Daily Coding Quest
-
-
-
-# 🎮 Kia's Developer Game Profile
+"what you do to day,
+is what you achieve reality"
