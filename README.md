@@ -1,13 +1,16 @@
-<h1 align="center">Hi 👋, I'm Cabaas</h1>
+```md
+<h1 align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=35&duration=3500&pause=1000&color=00BFFF&center=true&vCenter=true&width=900&lines=Hi+👋,+I'm+Cabaas;Frontend+Developer+from+Ethiopia;HTML+%7C+CSS+%7C+JavaScript;Learning+React.js;Welcome+To+My+GitHub!" />
+</h1>
 
-<h3 align="center">💻 Passionate Front-End Developer from Ethiopia 🇪🇹</h3>
+<h3 align="center">💙 A Passionate Frontend Developer from Ethiopia 🇪🇹</h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=30&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=700&lines=Welcome+to+My+GitHub!;Frontend+Developer;HTML+CSS+JavaScript;Learning+React.js;Always+Learning+New+Things"/>
+<img src="https://komarev.com/ghpvc/?username=abasmuktarosman&label=PROFILE+VIEWS&color=0e75b6&style=for-the-badge"/>
 </p>
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=abasmuktarosman&label=Profile+Views&color=blue&style=for-the-badge"/>
+<img src="https://github-profile-trophy.vercel.app/?username=abasmuktarosman&theme=algolia&row=1&column=7"/>
 </p>
 
 ---
@@ -15,11 +18,11 @@
 # 🚀 About Me
 
 - 🎓 Student
-- 💻 Front-End Developer
+- 💻 Frontend Developer
 - 🌍 From Ethiopia 🇪🇹
 - 🌱 Currently Learning **React.js**
 - ⚡ Love Building Beautiful Websites
-- 📚 Always Learning New Technologies
+- 🚀 Always Learning New Technologies
 
 ---
 
@@ -28,7 +31,7 @@
 <p align="center">
 
 <a href="https://github.com/abasmuktarosman">
-<img src="https://skillicons.dev/icons?i=github" width="50"/>
+<img src="https://skillicons.dev/icons?i=github" width="55"/>
 </a>
 
 </p>
@@ -39,7 +42,7 @@
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,javascript,react,git,github,vscode,figma,npm"/>
+<img src="https://skillicons.dev/icons?i=html,css,javascript,react,git,github,vscode,npm,figma&theme=dark"/>
 
 </p>
 
@@ -49,9 +52,9 @@
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=abasmuktarosman&show_icons=true&theme=tokyonight"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=abasmuktarosman&show_icons=true&theme=tokyonight"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abasmuktarosman&layout=compact&theme=tokyonight"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abasmuktarosman&layout=compact&theme=tokyonight"/>
 
 </p>
 
@@ -61,57 +64,19 @@
 
 <p align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=abasmuktarosman&theme=tokyonight"/>
+<img src="https://streak-stats.demolab.com?user=abasmuktarosman&theme=tokyonight"/>
 
 </p>
 
 ---
 
-# 🏆 GitHub Trophies
+# 💻 Coding Animation
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=abasmuktarosman&theme=algolia&no-frame=true&margin-w=10"/>
+<img width="420" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif"/>
 
-</p>
-
----
-
-# 🐍 Contribution Snake
-
-<p align="center">
-
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
-
-</p>
-
----
-
-# 🎬 Coding GIFs
-
-<p align="center">
-
-<img width="420" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
-
-<img width="420" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif"/>
-
-</p>
-
-<p align="center">
-
-<img width="850" src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif"/>
-
-</p>
-
----
-
-# 🎥 My YouTube
-
-<p align="center">
-
-<a href="https://www.youtube.com/">
-<img src="https://img.shields.io/badge/Watch-My%20Videos-red?style=for-the-badge&logo=youtube"/>
-</a>
+<img width="420" src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif"/>
 
 </p>
 
@@ -127,16 +92,16 @@
 
 ---
 
-# 💖 Support Me
+# 💙 Support Me
 
 <p align="center">
 
 <a href="https://github.com/abasmuktarosman">
-<img src="https://img.shields.io/badge/Follow%20Me-GitHub-black?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/badge/Follow-GitHub-0099ff?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 <a href="https://github.com/abasmuktarosman?tab=repositories">
-<img src="https://img.shields.io/badge/Star%20My%20Repos-yellow?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/badge/Star-My%20Repositories-blue?style=for-the-badge&logo=github"/>
 </a>
 
 </p>
@@ -145,7 +110,7 @@
 
 <p align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00BFFF,100:8A2BE2&height=150&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00BFFF,50:0099FF,100:0066FF&height=180&section=footer"/>
 
 </p>
-
+```
