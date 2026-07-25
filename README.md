@@ -58,24 +58,27 @@ Git/GitHub █████████████░░░░░░░ 70%
 # 🏆 Achievement Unlocked
 
 ---
+<img 
+  height="320" 
+  width="450" 
+  align="right" 
+  alt="Coding Animation" 
+  src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/93195.gif">
 
 # 🔥 Coding Streak Power
 
 <p align="center">
 <img src="https://streak-stats.demolab.com?user=abasmuktarosman&theme=tokyonight&hide_border=true"/>
 </p>
-
-<h2 align="center">
-🐍 My Contribution Snake Game
-</h2>
+# 🐍 Contribution Snake
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/abasmuktarosman/abasmuktarosman/output/github-contribution-grid-snake.svg"/>
+
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
+
 </p>
+
 ---
-
-
-
 # 🎮 Daily Coding Quest
 "what you do to day,
 is what you achieve reality"
